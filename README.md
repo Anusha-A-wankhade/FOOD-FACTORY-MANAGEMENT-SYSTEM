@@ -1,0 +1,2 @@
+# FOOD-FACTORY-MANAGEMENT-SYSTEM
+The "Food Factory Management System" is a project that utilizes MySQL as its database management system. It serves as a comprehensive platform for efficiently managing various aspects of a food production facility. MySQL is employed to store and organize essential data such as ingredient inventory, production schedules, employee records, and customer orders, enabling seamless operations and data retrieval within the system.
